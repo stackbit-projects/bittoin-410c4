@@ -1,6 +1,6 @@
 ---
 title: Currículo
-subtitle: Roadmap test
+subtitle: Um pouco do meu perfil e experiências
 image_alt: lorem-ipsum
 seo:
   title: ''
