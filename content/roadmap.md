@@ -9,7 +9,6 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: page
-image: /images/header.png
 ---
 
 <p align='center'>
