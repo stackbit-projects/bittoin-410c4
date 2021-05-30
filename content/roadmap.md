@@ -9,7 +9,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: page
-image: /images/alvaro-reyes-qWwpHwip31M-unsplash.jpg
+image: /images/12.jpg
 ---
 ## Lorem ipsum
 
