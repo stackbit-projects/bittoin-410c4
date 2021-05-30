@@ -1,6 +1,6 @@
 ---
 title: Contact
-hide_title: false
+hide_title: true
 sections:
   - type: section_form
     template: section_form
