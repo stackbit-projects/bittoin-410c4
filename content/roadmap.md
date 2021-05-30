@@ -11,9 +11,20 @@ seo:
 layout: page
 image: /images/header.png
 ---
-## Lorem ipsum
+Sou um estudante de Engenharia da Computação que ama Robótica, Sistemas Embarcados, IoT e principalmente Programar, Ensinar e Aprender. Estou sempre em busca de novas tecnologias, linguagens e soluções de problemas que ajudem as pessoas de alguma forma, para que todos possam se beneficiar no final. Por isso tento ensinar tudo que aprendo, para que pessoas como você, visitando esse perfil, que tenha interesses parecidos com o meu, possa aprender e levar esse conhecimento para frente!
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+
+\<p align="center">
+\<a href="https://github.com/bittoin">
+  \<img height="160em" src="https://github-readme-stats.vercel.app/api?username=bittoin\&theme=dracula\&show_icons=true\&include_all_commits=true\&count_private=true" />
+  \<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bittoin\&theme=dracula\&layout=compact\&langs_count=6" />
+ \<p align="center"> 
+  Visitor count
+  \<img src="https://profile-counter.glitch.me/bittoin/count.svg" />
+\</p>
+\</a>
+\</p>
+
+### Como me contatar ou ver meu conteúdo!
+
