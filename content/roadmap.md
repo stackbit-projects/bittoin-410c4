@@ -1,5 +1,5 @@
 ---
-title: Roadmap
+title: Currículo
 subtitle: Roadmap test
 image_alt: lorem-ipsum
 seo:
