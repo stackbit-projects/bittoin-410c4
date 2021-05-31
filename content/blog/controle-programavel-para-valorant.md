@@ -1,6 +1,6 @@
 ---
 title: Controle Programável para Valorant
-subtitle: lorem-ipsum
+subtitle: Uso do Arduino para um projeto interativo e divertido
 date: '2021-05-30'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
