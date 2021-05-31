@@ -61,7 +61,9 @@ thumb_image: /images/thoughtful-anemone.png
 O controle programável foi feito com o objetivo de entreter e jogar Valorant utilizando Arduino, como pode ser visto no gif abaixo.
 
 <div align='center'>
+
     <img src="https://github.com/bittoin/Controle-Programavel-para-Valorant/blob/main/images/trecho-gif.gif">
+
     <p>Figura 1. Exemplo de jogabilidade com Arduino Esplora</p>
 </div>
 
