@@ -19,16 +19,6 @@ image: /images/header (1).png
 thumb_image: /images/thoughtful-anemone.png
 ---
 
-<!--
-[![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Antonio-0282d0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-antonio-robotica/)](https://www.linkedin.com/in/mateus-antonio-robotica/)
--->
-
-<h1 align="center">
-  <img src="https://github.com/bittoin/Controle-Programavel-para-Valorant/blob/main/images/header.gif">
-</h1>
-
----
-
 <!-- 
 [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Antonio-0282d0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-antonio-robotica/)](https://www.linkedin.com/in/mateus-antonio-robotica/)
 -->
