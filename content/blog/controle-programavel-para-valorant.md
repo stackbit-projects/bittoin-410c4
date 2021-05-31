@@ -40,7 +40,9 @@ thumb_image: /images/thoughtful-anemone.png
 <h3 align="center">
 Uso do Arduino para um projeto interativo e divertido.
 </h3>
+
 ## Índice
+
 + [Sobre](#sobre)
 + [Arduino Esplora](#arduino-esplora)
 + [Primeiros Passos](#comecando)
