@@ -16,6 +16,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 image: /images/header (1).png
+thumb_image: /images/thoughtful-anemone.png
 ---
 \<h1 align="center">
   \<img src="https://github.com/bittoin/Controle-Programavel-para-Valorant/blob/main/images/header.gif">
