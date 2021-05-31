@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Controle Programável para Valorant
 subtitle: lorem-ipsum
 date: '2021-05-30'
 thumb_image_alt: lorem-ipsum
