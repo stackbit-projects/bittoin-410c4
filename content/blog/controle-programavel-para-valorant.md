@@ -87,7 +87,7 @@ Basta abrir o código encontrado na pasta <a href="https://github.com/bittoin/Co
 A imagem abaixo indica todos os comandos que podem ser feitos para jogar baseado no código feito.
 
 <div align='center'>
-    <img src="https://github.com/bittoin/Controle-Programavel-para-Valorant/blob/main/images/instrucao-completo.png">
+    <img src="https://github.com/bittoin/Controle-Programavel-para-Valorant/blob/main/images/instrucao-completo.png?raw=true">&nbsp;&nbsp>
     <p>Figura 2. Comandos do controle baseado no código disponibilizado</p>
 </div>
 
