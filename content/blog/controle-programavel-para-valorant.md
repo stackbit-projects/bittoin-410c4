@@ -46,6 +46,8 @@ thumb_image: /images/thoughtful-anemone.png
   Uso do Arduino para um projeto interativo e divertido.
 </h3>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HxTx5w_d6uE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Índice
 
 + [Sobre](#sobre)
