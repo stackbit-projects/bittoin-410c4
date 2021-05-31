@@ -6,7 +6,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   O controle programável foi feito com o objetivo de entreter e jogar Valorant
-  utilizando Arduino, como pode ser visto no gif abaixo.
+  utilizando Arduino
 seo:
   title: ''
   description: ''
